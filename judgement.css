@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+#span{
+    background-image: url('tingey-injury-law-firm-DZpc4UY8ZtY-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 119.2vh;
+    margin-top: -10%;
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+    
+    opacity: 0.6;
+
+}
+
+.comingsoon {
+    text-align: center;
+    margin-top: -30%;
+    font-size: 80px;
+    font-weight: 900;
+    color: #000;
+    opacity: 0.8 !important;
+    
+}
+.launching{
+    font-size: x-large;
+    font-weight: 700;
+}
